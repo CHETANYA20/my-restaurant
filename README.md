@@ -1,1 +1,4 @@
-# my-restaurant
+Restaurant
+==========
+
+A template for Restaurant business
